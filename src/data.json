@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "5b01af5ea8985a293fef3eda",
+    "isActive": false,
+    "age": 23,
+    "name": "Jeanette Harding"
+  },
+  {
+    "_id": "5b01af5ee6c447116a0740ed",
+    "isActive": true,
+    "age": 39,
+    "name": "Rita Johns"
+  },
+  {
+    "_id": "5b01af5eb9bd36bfeb706352",
+    "isActive": false,
+    "age": 37,
+    "name": "Mcbride Miranda"
+  },
+  {
+    "_id": "5b01af5e64dae30d1573734e",
+    "isActive": true,
+    "age": 32,
+    "name": "Burt Blankenship"
+  },
+  {
+    "_id": "5b01af5e311632e413de9cdb",
+    "isActive": true,
+    "age": 40,
+    "name": "Middleton Gibson"
+  }
+]

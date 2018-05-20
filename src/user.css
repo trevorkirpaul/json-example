@@ -1,0 +1,21 @@
+body {
+  color: #383838;
+  font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+  max-width: 500px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.userList {
+  list-style: none;
+}
+
+.userPanel {
+  text-align: left;
+  background-color: blanchedalmond;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+}
